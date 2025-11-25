@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nombre": "Javier",
+    "apellido": "Gomez",
+    "edad": 28,
+    "email": "javiersito10@mail.com",
+    "password": "password123"
+  },
+  {
+    "id": 2,
+    "nombre": "Jorge",
+    "apellido": "Catello",
+    "edad": 32,
+    "email": "jorge10@mail.com",
+    "password": "password456"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellido": "Juez",
+    "edad": 25,
+    "email": "carlitos@mail.com",
+    "password": "password789"
+  }
+]
+
