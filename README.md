@@ -62,6 +62,11 @@ npm run dev
 El servidor estará corriendo en `http://localhost:3001`
 
 **Documentación Swagger:** http://localhost:3001/api-docs
+##ACLARACION EN SWAGGER: 
+Para la ruta
+GET
+/api/auth/me
+Es necesario agregar el token devuelto al "Authorize" de swagger.
 
 ## Cómo Iniciar el Frontend
 
